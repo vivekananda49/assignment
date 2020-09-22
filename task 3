@@ -1,0 +1,8 @@
+df –h
+#The df command can be used to display a specific file system
+df –h /dev/sda2
+
+#The du command displays disk usage
+du
+
+#Freeing disk space on your Linux server
