@@ -1,0 +1,3 @@
+The Linux      lsof (“list of open files.”)     command lists information about files that are open by processes running on the system. 
+lsof | head
+lsof -p 11925
